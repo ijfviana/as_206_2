@@ -1,7 +1,7 @@
 as_206_2
 ========
 
-Transparencias de Administración de Servidores. Mantenimiento del Sistema, copias de seguridad.
+Transparencias del tema  "Mantenimiento del Sistema, copias de seguridad" impartido dentro de la asignatura Administración de Servidores del Grado en Ingeniería Informática de la Universidad de Huelva.
 
 
 Instalación
